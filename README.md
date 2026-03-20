@@ -2,6 +2,8 @@
 
 *What does it mean to be human—according to the very things that are not?*
 
+**[Explore the Live Gallery Here: roman-ladus.github.io/life-achievements/](https://roman-ladus.github.io/life-achievements/)**
+
 Life Achievements is primarily an **experiment in digital philosophy and comparative AI thinking**. The objective was simple: force artificial intelligence models to simulate humanity to its core, and analyze exactly where each model places value and meaning.
 
 ## The Philosophy
