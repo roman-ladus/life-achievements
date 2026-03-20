@@ -1,0 +1,1 @@
+import{n as e}from"./data-Q2E81Y02.js";function t(t){t.textContent=e}function n(t){t.addEventListener(`click`,()=>{navigator.clipboard.writeText(e).then(()=>{t.textContent,t.textContent=`Copied!`,setTimeout(()=>{t.textContent=`Copy`},2e3)})})}document.addEventListener(`DOMContentLoaded`,()=>{t(document.getElementById(`prompt-display`)),n(document.getElementById(`copy-btn`))});
