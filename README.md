@@ -1,6 +1,6 @@
 # Life Achievements
 
-*What does it mean to be human—according to the very things that are not?*
+*What does it mean to be human, according to the very things that are not?*
 
 **[Explore the Live Gallery Here: roman-ladus.github.io/life-achievements/](https://roman-ladus.github.io/life-achievements/)**
 
